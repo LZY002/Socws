@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VelibService", "VelbService\VelibService.csproj", "{F27AC0A4-9954-4F97-A8D4-3D0118BF2922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMap_WebService", "..\GoogleMapService\GoogleMap_WebService.csproj", "{8CF21B2C-59E9-4E0C-ACD8-C0A70739EB6E}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{287A8DE1-25D0-4DA1-8D8D-1EA43929630A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F27AC0A4-9954-4F97-A8D4-3D0118BF2922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27AC0A4-9954-4F97-A8D4-3D0118BF2922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27AC0A4-9954-4F97-A8D4-3D0118BF2922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27AC0A4-9954-4F97-A8D4-3D0118BF2922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF21B2C-59E9-4E0C-ACD8-C0A70739EB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF21B2C-59E9-4E0C-ACD8-C0A70739EB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF21B2C-59E9-4E0C-ACD8-C0A70739EB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF21B2C-59E9-4E0C-ACD8-C0A70739EB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{287A8DE1-25D0-4DA1-8D8D-1EA43929630A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287A8DE1-25D0-4DA1-8D8D-1EA43929630A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287A8DE1-25D0-4DA1-8D8D-1EA43929630A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287A8DE1-25D0-4DA1-8D8D-1EA43929630A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21E38282-283D-40B9-B37B-939B34EADC7D}
+	EndGlobalSection
+EndGlobal

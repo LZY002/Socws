@@ -1,0 +1,10 @@
+C:\Users\Christophe Li\Desktop\project\VelbService\VelbService\bin\Debug\VelbService.exe.config
+C:\Users\Christophe Li\Desktop\project\VelbService\VelbService\bin\Debug\VelbService.exe
+C:\Users\Christophe Li\Desktop\project\VelbService\VelbService\bin\Debug\VelbService.pdb
+C:\Users\Christophe Li\Desktop\project\VelbService\VelbService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christophe Li\Desktop\project\VelbService\VelbService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Christophe Li\Desktop\project\VelbService\VelbService\obj\Debug\VelibService.csprojAssemblyReference.cache
+C:\Users\Christophe Li\Desktop\project\VelbService\VelbService\obj\Debug\VelibService.csproj.CoreCompileInputs.cache
+C:\Users\Christophe Li\Desktop\project\VelbService\VelbService\obj\Debug\VelibService.csproj.CopyComplete
+C:\Users\Christophe Li\Desktop\project\VelbService\VelbService\obj\Debug\VelbService.exe
+C:\Users\Christophe Li\Desktop\project\VelbService\VelbService\obj\Debug\VelbService.pdb

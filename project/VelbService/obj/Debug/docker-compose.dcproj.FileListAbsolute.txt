@@ -1,0 +1,8 @@
+C:\Users\Christophe Li\Desktop\project\VelbService\bin\Debug\VelbService.exe
+C:\Users\Christophe Li\Desktop\project\VelbService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christophe Li\Desktop\project\VelbService\bin\Debug\VelbService.pdb
+C:\Users\Christophe Li\Desktop\project\VelbService\bin\Debug\VelbService.exe.config
+C:\Users\Christophe Li\Desktop\project\VelbService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Christophe Li\Desktop\project\VelbService\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\Christophe Li\Desktop\project\VelbService\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Christophe Li\Desktop\project\VelbService\obj\Debug\docker-compose.dcproj.CopyComplete

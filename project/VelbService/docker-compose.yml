@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  velibservice:
+    image: ${DOCKER_REGISTRY-}velibservice
+    build:
+      context: .\VelbService
+      dockerfile: Dockerfile

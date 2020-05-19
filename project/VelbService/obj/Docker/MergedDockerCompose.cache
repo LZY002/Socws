@@ -1,0 +1,7 @@
+services:
+  velibservice:
+    build:
+      context: C:\Users\Christophe Li\Desktop\project\VelbService\VelbService
+      dockerfile: Dockerfile
+    image: velibservice
+version: '3.4'
